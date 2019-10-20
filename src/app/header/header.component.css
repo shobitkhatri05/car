@@ -1,0 +1,33 @@
+nav ul li a
+{
+    text-decoration:none;
+    padding:10px;
+    margin-left: 70px;
+    color:white;
+    font-size:20px;
+    
+
+}
+nav ul li a:hover
+{
+    color:blue;
+}
+
+.navbar-light
+{
+    background-image: linear-gradient(to right top, #0e0e0d, #10100f, #121211, #131413, #151615, #242523, #333532, #444642, #6a6d66, #93968c, #bfc1b4, #eeeedd);
+    
+    
+    
+}
+.navbar-brand
+{
+    color:red;
+    margin-left:15%;
+    font-size:30px;
+    
+}
+.navbar-brand:hover
+{
+    color:red;
+}

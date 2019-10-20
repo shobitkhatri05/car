@@ -1,0 +1,20 @@
+.heading
+{
+    color:red;
+    position:absolute;
+    top:10%;
+    width: 100%;
+    text-align: center;
+    font-size:70px;
+    color: red;
+    text-shadow:0 0 2px rgba(0,0,0,.5);
+    font-family: Gill\ Sans,Gill\ Sans\ MT,Myriad\ Pro,DejaVu\ Sans\ Condensed,Helvetica,Arial," sans-serif";
+
+}
+.input-group
+{
+    width:100%;
+    background: #fff;
+    vertical-align: middle;
+    height: 50px;
+}
